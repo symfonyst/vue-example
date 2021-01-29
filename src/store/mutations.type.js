@@ -1,0 +1,8 @@
+export const SET_TOKEN = 'SET_TOKEN'
+export const SET_EMAIL = 'SET_EMAIL'
+export const SET_TIMER = 'SET_TIMER'
+export const SET_SENDED = 'SET_SENDED'
+export const SET_ERROR_VERIFY = 'SET_ERROR_VERIFY'
+export const SET_SUCCESS_VERIFY = 'SET_SUCCESS_VERIFY'
+export const SET_STATUS = 'SET_STATUS'
+export const SET_TIME_LIMIT = 'SET_TIME_LIMIT'

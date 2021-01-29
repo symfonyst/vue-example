@@ -1,0 +1,2 @@
+export const VERIFY_EMAIL = 'VERIFY_EMAIL'
+export const VERIFY_CODE_TOKEN = 'VERIFY_CODE_TOKEN'
